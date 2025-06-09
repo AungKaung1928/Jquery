@@ -1,4 +1,4 @@
-# Weather Forecast 🌤️
+# Weather Forecast Project 🌤️
 
 Simple weather app using OpenWeatherMap API.
 
